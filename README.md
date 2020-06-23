@@ -20,9 +20,7 @@ These applications contain notional data and are dual use.
 The Code Examples in this repository are licensed under the AGI Code Examples License Agreement, which is included in this repository as [License.pdf](License.pdf).
 
 ## Redistribution
-If You redistribute the Code Examples, in whole or in part, You must provide a copy of this License Agreement to any other recipient of the Code Examples, and include the following copyright notice: 
-
-© 2020 Analytical Graphics, Inc.
+If You redistribute the Code Examples, in whole or in part, You must provide a copy of this License Agreement to any other recipient of the Code Examples, and include the following copyright notice: © 2020 Analytical Graphics, Inc.
 
 ## What if I have questions about STK
 
